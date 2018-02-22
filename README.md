@@ -41,7 +41,7 @@ A curated list of Swift libraries, UI components and custom animations developed
 Folding cell is released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
-# Get the Showroom App for iOS to give it a try
+## Get the Showroom App for iOS to give it a try
 Try this UI component and more like this in our iOS app. Contact us if interested.
 
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=swift-libraries&mt=8" >
