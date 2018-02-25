@@ -38,7 +38,7 @@ A curated list of Swift libraries, UI components and custom animations developed
 
 ## Licence
 
-Folding cell is released under the MIT license.
+All the swift libraries released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
 ## Get the Showroom App for iOS to give it a try
