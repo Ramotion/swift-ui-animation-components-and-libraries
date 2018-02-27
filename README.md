@@ -31,14 +31,17 @@ Paper Switch is a Swift material design UI module which paints over the parent v
 [Paper Onboarding](https://github.com/Ramotion/paper-onboarding)
 
 Paper Onboarding is a material design UI slider written on Swift.
+![animation](./paper-onboarding.gif)
 
 [Reel Search](https://github.com/Ramotion/reel-search)
 
 Reel Search is a Swift UI controller that allows you to choose options from a list.
+![animation](./reel-search.gif)
 
 [Navigation Stack](https://github.com/Ramotion/navigation-stack)
 
 Navigation Stack is a stack-modeled UI navigation controller.
+![animation](./navigation-stack.gif)
 
 [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar)
 
@@ -48,6 +51,7 @@ Adaptive Controller is a 'Progressive Reduction' Swift UI module for adding cust
 [Preview Transition](https://github.com/Ramotion/preview-transition)
 
 Preview Transition is a simple preview gallery UI controller with animated tranisitions.
+![animation](./preview-transition.gif)
 
 [Gliding Collection](https://github.com/Ramotion/gliding-collection)
 
@@ -62,7 +66,7 @@ A slider widget with a popup bubble displaying the precise value selected writte
 [Elongation Preview](https://github.com/Ramotion/elongation-preview)
 
 Elongation Preview is an elegant UI push-pop style view controller for iOS.
-![animation](./elongation-preview_edited.gif)
+![animation](./elongation-preview-edited.gif)
 
 [Garland View](https://github.com/Ramotion/garland-view)
 
