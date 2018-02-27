@@ -35,7 +35,7 @@ Paper Switch is a Swift material design UI module which paints over the parent v
 
 [Paper Onboarding](https://github.com/Ramotion/paper-onboarding)
 
-Paper Onboarding is a material design UI slider written on Swift.
+iOS library Paper Onboarding is a material design UI slider written on Swift.
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/paper-onboarding.gif" width="400" height="300" />
 <br><br/>
 
@@ -47,13 +47,13 @@ Reel Search is a Swift UI controller that allows you to choose options from a li
 
 [Navigation Stack](https://github.com/Ramotion/navigation-stack)
 
-Navigation Stack is a stack-modeled UI navigation controller.
+Navigation Stack is a library with stack-modeled UI navigation controller.
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/navigation-stack.gif" width="400" height="300" />
 <br><br/>
 
 [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar)
 
-Adaptive Controller is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements.
+Adaptive TabBar is a 'Progressive Reduction'module for adding custom states to Native or Custom UI elements.
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/adaptive-tab-bar.gif" width="400" height="300" />
 <br><br/>
 
