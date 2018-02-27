@@ -85,6 +85,8 @@ Elongation Preview is an elegant UI push-pop style view controller for iOS.
 
 
 Garland View seamlessly transitions between multiple lists of content.
+<img src="https://github.com/Ramotion/swift-libraries/blob/master/garland-view.gif" width="400" height="300" />
+<br><br/>
 
 ## Requirements
 
