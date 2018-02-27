@@ -125,7 +125,7 @@ Try this UI component and more like this in our iOS app. Contact us if intereste
 <br>
 
 Follow us for the latest updates<br>[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/swift-libraries)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://github.com/RamotionDev)
 
 <!-- Place this tag where you want the button to render. -->
 <a href="https://github.com/RamotionDev" aria-label="Follow @RamotionDev on GitHub">Follow @RamotionDev</a>
