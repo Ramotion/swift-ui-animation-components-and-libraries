@@ -6,6 +6,7 @@ A curated list of Swift libraries, UI components and custom animations developed
 [Folding Cell](https://github.com/Ramotion/folding-cell)
 
 Folding Cell is an expanding content cell with animation inspired by folding paper card material design. 
+![animation](./folding-cell.gif)
 
 [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar)
 
