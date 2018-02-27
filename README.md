@@ -11,18 +11,22 @@ Folding Cell is an expanding content cell with animation inspired by folding pap
 [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar)
 
 Animated Tab Bar is a Swift UI module library for adding animation to iOS tabbar items and icons.
+![animation](./animated-tab-bar.gif)
 
 [Expanding Collection](https://github.com/Ramotion/expanding-collection)
 
 Expanding Collection is an animated material design UI card peek/pop controller.
+![animation](./expanding-collection-edited.gif)
 
 [Circle Menu](https://github.com/Ramotion/circle-menu)
 
 Circle Menu is a simple, elegant UI menu with a circular layout and material design animations.
+![animation](./circle-menu-edited.gif)
 
 [Paper Switch](https://github.com/Ramotion/paper-switch)
 
 Paper Switch is a Swift material design UI module which paints over the parent view when the switch is turned on.
+![animation](./paper-switch.gif)
 
 [Paper Onboarding](https://github.com/Ramotion/paper-onboarding)
 
@@ -39,6 +43,7 @@ Navigation Stack is a stack-modeled UI navigation controller.
 [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar)
 
 Adaptive Controller is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements.
+![animation](./adaptive-tab-bar.gif)
 
 [Preview Transition](https://github.com/Ramotion/preview-transition)
 
@@ -47,14 +52,17 @@ Preview Transition is a simple preview gallery UI controller with animated trani
 [Gliding Collection](https://github.com/Ramotion/gliding-collection)
 
 Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller.
+![animation](./gliding_collection.gif)
 
 [Fluid Slider](https://github.com/Ramotion/fluid-slider)
 
 A slider widget with a popup bubble displaying the precise value selected written on Swift.
+![animation](./fluid-slider-edited.gif)
 
 [Elongation Preview](https://github.com/Ramotion/elongation-preview)
 
 Elongation Preview is an elegant UI push-pop style view controller for iOS.
+![animation](./elongation-preview_edited.gif)
 
 [Garland View](https://github.com/Ramotion/garland-view)
 
