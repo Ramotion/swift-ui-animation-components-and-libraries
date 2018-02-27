@@ -1,5 +1,3 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 # Swift Libraries
 A curated list of Swift libraries, UI components and custom animations developed by [@ramotion](https://twitter.com/Ramotion)
@@ -130,4 +128,4 @@ Follow us for the latest updates<br>[![Twitter URL](https://img.shields.io/twitt
 [![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/RamotionDev" aria-label="Follow @ntkme on GitHub">Follow @RamotionDev</a>
+<a href="https://github.com/RamotionDev" aria-label="Follow @RamotionDev on GitHub">Follow @RamotionDev</a>
