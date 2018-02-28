@@ -127,5 +127,5 @@ Try this UI component and more like this in our iOS app. Contact us if intereste
 Follow us for the latest updates<br>
 
 <!-- Place this tag where you want the button to render. -->
-<a href="https://github.com/RamotionDev" >
+<a href="goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a>
