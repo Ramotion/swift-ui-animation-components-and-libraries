@@ -124,9 +124,8 @@ Try this UI component and more like this in our iOS app. Contact us if intereste
 <br>
 <br>
 
-Follow us for the latest updates<br>[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/swift-libraries)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
+Follow us for the latest updates<br>
 
 <!-- Place this tag where you want the button to render. -->
 <a href="https://github.com/RamotionDev" >
-<img src="https://i.imgur.com/U8sf5NA.jpg" width="143" height="26"></a>
+<img src="https://i.imgur.com/ziSqeSo.png" width="156" height="28"></a>
