@@ -128,4 +128,4 @@ Follow us for the latest updates<br>
 
 <!-- Place this tag where you want the button to render. -->
 <a href="https://github.com/RamotionDev" >
-<img src="https://i.imgur.com/ziSqeSo.png" width="156" height="28"></a>
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a>
