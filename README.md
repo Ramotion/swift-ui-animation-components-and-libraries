@@ -103,10 +103,10 @@ Garland View seamlessly transitions between multiple lists of content.
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/garland-view.gif" width="400" height="300" /></a>
 <br><br/>
 
-## Requirements
+## Check out other lists of our UI libraries
 
-- iOS 8.0+
-- Xcode 9.0+
+<a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
+<img src="https://github.com/Ramotion/swift-ui-animation-components-libraries/blob/master/gifs/android.png" width="178" height="81"></a>
 
 ## Licence
 
