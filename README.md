@@ -114,7 +114,7 @@ All the swift libraries released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
 ## Get the Showroom App for iOS to give it a try
-Try this UI component and more like this in our iOS app. Contact us if interested.
+Try this UI components and more like this in our iOS app. Contact us if interested.
 
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=swift-libraries&mt=8" >
 <img src="https://github.com/ramotion/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
