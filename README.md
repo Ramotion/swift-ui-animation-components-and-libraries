@@ -125,7 +125,7 @@ Try this UI components and more like this in our iOS app. Contact us if interest
 <br>
 <br>
 
-<b>Follow us for the latest updates:</b><br>
+<b>Follow us for the latest updates</b><br>
 
 <!-- Place this tag where you want the button to render. -->
 <a href="https://goo.gl/rPFpid" >
