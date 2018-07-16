@@ -6,14 +6,14 @@ A curated list of Swift libraries, UI components and custom animations developed
 
 [Folding Cell](https://github.com/Ramotion/folding-cell)
 
-Folding Cell is an expanding content cell with animation inspired by folding paper card material design.
+Expanding content cell with animation inspired by folding paper card material design.
 <a href="https://github.com/Ramotion/folding-cell">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/folding-cell.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar)
 
-Animated Tab Bar is a Swift UI module library for adding animation to iOS tabbar items and icons.
+Swift UI module library for adding animation to iOS tabbar items and icons.
 <a href="https://github.com/Ramotion/animated-tab-bar">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/animated-tab-bar.gif" width="400" height="300" /></a>
 <br><br/>
