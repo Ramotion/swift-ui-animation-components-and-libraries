@@ -21,6 +21,7 @@ Swift UI module library for adding animation to iOS tabbar items and icons.
 [Expanding Collection](https://github.com/Ramotion/expanding-collection)
 
 An animated material design UI card peek/pop controller.
+
 <a href="https://github.com/Ramotion/expanding-collection">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/expanding-collection-edited.gif" width="400" height="300" /></a>
 <br><br/>
