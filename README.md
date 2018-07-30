@@ -28,7 +28,7 @@ An animated material design UI card peek/pop controller.
 
 [Circle Menu](https://github.com/Ramotion/circle-menu)
 
-Circle Menu is a simple, elegant UI menu with a circular layout and material design animations.
+A simple, elegant UI menu with a circular layout and material design animations.
 <a href="https://github.com/Ramotion/circle-menu">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/circle-menu-edited.gif" width="400" height="300" /></a>
 <br><br/>
