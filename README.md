@@ -35,7 +35,7 @@ A simple, elegant UI menu with a circular layout and material design animations.
 
 [Paper Switch](https://github.com/Ramotion/paper-switch)
 
-Paper Switch is a Swift material design UI module which paints over the parent view when the switch is turned on.
+A Swift material design UI module which paints over the parent view when the switch is turned on.
 <a href="https://github.com/Ramotion/paper-switch">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/paper-switch.gif" width="400" height="300" /></a>
 <br><br/>
