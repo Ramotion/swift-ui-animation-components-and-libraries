@@ -18,6 +18,13 @@ Swift UI module library for adding animation to iOS tabbar items and icons.
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/animated-tab-bar.gif" width="400" height="300" /></a>
 <br><br/>
 
+[Navigation Toolbar](https://github.com/Ramotion/navigation-toolbar)
+
+Navigation toolbar is a Swift slide-modeled UI navigation controller.
+<a href="https://github.com/Ramotion/navigation-toolbar">
+<img src="https://github.com/vladiram/navigation-toolbar/blob/master/iOS-Navigation-Toolbar-1x.gif" width="400" height="300" /></a>
+<br><br/>
+
 [Expanding Collection](https://github.com/Ramotion/expanding-collection)
 
 An animated material design UI card peek/pop controller.
