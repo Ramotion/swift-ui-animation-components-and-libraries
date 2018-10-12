@@ -135,7 +135,7 @@ Try this UI components and more like this in our iOS app. Contact us if interest
 <br>
 <br>
 
-<b>Follow us for the latest updates</b>
+<b>Follow us for the latest updates:</b>
 
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a>
