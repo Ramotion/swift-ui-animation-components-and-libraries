@@ -18,6 +18,15 @@ Swift UI module library for adding animation to iOS tabbar items and icons.
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/animated-tab-bar.gif" width="400" height="300" /></a>
 <br><br/>
 
+[Card Slider](https://github.com/Ramotion/cardslider)
+
+Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
+
+
+<a href="https://github.com/Ramotion/cardslider">
+<img src="https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif" width="400" height="300" /></a>
+<br><br/>
+
 [Navigation Toolbar](https://github.com/Ramotion/navigation-toolbar)
 
 A Swift slide-modeled UI navigation controller.
