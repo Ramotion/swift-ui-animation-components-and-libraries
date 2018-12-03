@@ -6,21 +6,21 @@ A curated list of Swift libraries, UI components and custom animations developed
 
 [Folding Cell](https://github.com/Ramotion/folding-cell)
 
-Expanding content cell with animation inspired by folding paper card material design.
+Expanding content cell with animation inspired by folding paper card material design
 <a href="https://github.com/Ramotion/folding-cell">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/folding-cell.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar)
 
-Swift UI module library for adding animation to iOS tabbar items and icons.
+Swift UI module library for adding animation to iOS tabbar items and icons
 <a href="https://github.com/Ramotion/animated-tab-bar">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/animated-tab-bar.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Card Slider](https://github.com/Ramotion/cardslider)
 
-Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
+Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions
 
 
 <a href="https://github.com/Ramotion/cardslider">
@@ -29,7 +29,7 @@ Cardslider is a design UI controller that allows you to swipe through cards with
 
 [Navigation Toolbar](https://github.com/Ramotion/navigation-toolbar)
 
-A Swift slide-modeled UI navigation controller.
+A Swift slide-modeled UI navigation controller
 
 
 <a href="https://github.com/Ramotion/navigation-toolbar">
@@ -38,7 +38,7 @@ A Swift slide-modeled UI navigation controller.
 
 [Expanding Collection](https://github.com/Ramotion/expanding-collection)
 
-An animated material design UI card peek/pop controller.
+An animated material design UI card peek/pop controller
 
 <a href="https://github.com/Ramotion/expanding-collection">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/expanding-collection-edited.gif" width="400" height="300" /></a>
@@ -46,70 +46,70 @@ An animated material design UI card peek/pop controller.
 
 [Circle Menu](https://github.com/Ramotion/circle-menu)
 
-A simple, elegant UI menu with a circular layout and material design animations.
+A simple, elegant UI menu with a circular layout and material design animations
 <a href="https://github.com/Ramotion/circle-menu">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/circle-menu-edited.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Paper Switch](https://github.com/Ramotion/paper-switch)
 
-A Swift material design UI module which paints over the parent view when the switch is turned on.
+A Swift material design UI module which paints over the parent view when the switch is turned on
 <a href="https://github.com/Ramotion/paper-switch">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/paper-switch.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Paper Onboarding](https://github.com/Ramotion/paper-onboarding)
 
-iOS library Paper Onboarding is a material design UI slider written on Swift.
+iOS library Paper Onboarding is a material design UI slider written on Swift
 <a href="https://github.com/Ramotion/paper-onboarding">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/paper-onboarding.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Reel Search](https://github.com/Ramotion/reel-search)
 
-Reel Search is a Swift UI controller that allows you to choose options from a list.
+Reel Search is a Swift UI controller that allows you to choose options from a list
 <a href="https://github.com/Ramotion/reel-search">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/reel-search.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Navigation Stack](https://github.com/Ramotion/navigation-stack)
 
-Navigation Stack is a library with stack-modeled UI navigation controller.
+Navigation Stack is a library with stack-modeled UI navigation controller
 <a href="https://github.com/Ramotion/navigation-stack">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/navigation-stack.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar)
 
-Adaptive TabBar is a 'Progressive Reduction'module for adding custom states to Native or Custom UI elements.
+Adaptive TabBar is a 'Progressive Reduction'module for adding custom states to Native or Custom UI elements
 <a href="https://github.com/Ramotion/adaptive-tab-bar">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/adaptive-tab-bar.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Preview Transition](https://github.com/Ramotion/preview-transition)
 
-Preview Transition is a simple preview gallery UI controller with animated tranisitions.
+Preview Transition is a simple preview gallery UI controller with animated tranisitions
 <a href="https://github.com/Ramotion/preview-transition">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/preview-transition.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Gliding Collection](https://github.com/Ramotion/gliding-collection)
 
-Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller.
+Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller
 <a href="https://github.com/Ramotion/gliding-collection">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/gliding_collection.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Fluid Slider](https://github.com/Ramotion/fluid-slider)
 
-A slider widget with a popup bubble displaying the precise value selected written on Swift.
+A slider widget with a popup bubble displaying the precise value selected written on Swift
 <a href="https://github.com/Ramotion/fluid-slider">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/fluid-slider-edited.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Elongation Preview](https://github.com/Ramotion/elongation-preview)
 
-Elongation Preview is an elegant UI push-pop style view controller for iOS.
+Elongation Preview is an elegant UI push-pop style view controller for iOS
 <a href="https://github.com/Ramotion/elongation-preview">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/elongation-preview-edited.gif" width="400" height="300" /></a>
 <br><br/>
@@ -117,7 +117,7 @@ Elongation Preview is an elegant UI push-pop style view controller for iOS.
 [Garland View](https://github.com/Ramotion/garland-view)
 
 
-Garland View seamlessly transitions between multiple lists of content.
+Garland View seamlessly transitions between multiple lists of content
 <a href="https://github.com/Ramotion/garland-view">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/garland-view.gif" width="400" height="300" /></a>
 <br><br/>
@@ -130,7 +130,7 @@ Garland View seamlessly transitions between multiple lists of content.
 
 ## Licence
 
-All the swift libraries released under the MIT license.
+All the Swift libraries released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
 ## Get the Showroom App for iOS to give it a try
