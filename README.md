@@ -139,7 +139,7 @@ Try this UI components and more like this in our iOS app. Contact us if interest
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=swift-libraries&mt=8" >
 <img src="https://github.com/ramotion/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
 
-<a href="https://dev.ramotion.com/gthbr">
+<a href="https://dev.ramotion.com?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-animation-components-and-libraries">
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 <br>
 <br>
