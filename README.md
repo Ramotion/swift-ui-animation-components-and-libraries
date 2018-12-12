@@ -1,6 +1,6 @@
 
 # Swift UI Animation Libraries
-A curated list of Swift libraries, UI components and custom animations developed by [@Ramotion](https://github.com/RamotionDev)
+A curated list of Swift libraries, iOS UI components and custom animations developed by [@Ramotion](https://github.com/RamotionDev)
 
 ## Content
 
