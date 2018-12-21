@@ -121,7 +121,10 @@ Garland View seamlessly transitions between multiple lists of content
 <a href="https://github.com/Ramotion/garland-view">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/garland-view.gif" width="404" height="303" /></a>
 <br><br/>
-<b>The [iPhone mockup](https://store.ramotion.com/product/iphone-x-clay-mockups?utm_source=gthb&utm_medium=special&utm_campaign=swift-ui-libraries) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=swift-ui-libraries).</b>
+
+<b>[Get a Free White iPhone X Clay Mockup for your next project](https://store.ramotion.com/product/iphone-x-clay-mockups?utm_source=gthb&utm_medium=special&utm_campaign=swift-ui-libraries#demo)</b>
+
+If you use the open-source library in your project, please make sure to credit and backlink to www.ramotion.com
 
 ## Check out other lists of our UI libraries
 
