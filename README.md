@@ -7,6 +7,8 @@ A curated list of Swift libraries, iOS UI components and custom animations devel
 [Folding Cell](https://github.com/Ramotion/folding-cell)
 
 Expanding content cell with animation inspired by folding paper card material design
+
+
 <a href="https://github.com/Ramotion/folding-cell">
 <img src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/folding-cell.gif" width="404" height="303" /></a>
 <br><br/>
