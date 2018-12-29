@@ -13,7 +13,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/folding-cell#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/folding-cell#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/folding-cell#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -25,7 +25,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/animated-tab-bar#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/animated-tab-bar#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/animated-tab-bar#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -37,7 +37,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/cardslider#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/cardslider#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/cardslider#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -49,7 +49,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/navigation-toolbar#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/navigation-toolbar#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/navigation-toolbar#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -61,7 +61,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/expanding-collection#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/expanding-collection#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/expanding-collection#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -73,7 +73,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/circle-menu#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/circle-menu#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/circle-menu#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -85,7 +85,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/paper-switch#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/paper-switch#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/paper-switch#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -97,7 +97,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/paper-onboarding#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/paper-onboarding#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/paper-onboarding#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -109,7 +109,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/reel-search#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/reel-search#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/reel-search#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -121,7 +121,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/navigation-stack#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/navigation-stack#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/navigation-stack#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -133,7 +133,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/adaptive-tab-bar#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/adaptive-tab-bar#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/adaptive-tab-bar#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -145,7 +145,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/preview-transition#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/preview-transition#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/preview-transition#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -157,7 +157,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/gliding-collection#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/gliding-collection#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/gliding-collection#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -169,7 +169,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/fluid-slider#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/fluid-slider#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/fluid-slider#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -181,7 +181,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/elongation-preview#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/elongation-preview#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/elongation-preview#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
@@ -193,7 +193,7 @@
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/garland-view#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/garland-view#requirements">✅ Requirements →</a></h4>
+<h4><a href="https://github.com/Ramotion/garland-view#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 ## 🗂 Check out other lists of our UI libraries
