@@ -3,7 +3,7 @@
 # Swift UI Animation Libraries
 
 <p><h3>A curated list of Swift libraries, iOS UI components and custom animations developed by Ramotion<h3><p>
-  </br>
+ </br>
 
 <a href="https://github.com/Ramotion/folding-cell">
 <img align="left" src="https://github.com/Ramotion/swift-ui-animation-components-and-libraries/blob/master/gifs/folding-cell.gif" width="480" height="360" /></a>
@@ -218,4 +218,3 @@ Try these UI components and more like this in our iOS app. Contact us if interes
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 <br>
 <h6><a href="https://store.ramotion.com/product/iphone-x-clay-mockups?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell#demo">Get Free Mockup For your project →</a></h6>
-<br>
