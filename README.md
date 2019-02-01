@@ -29,6 +29,18 @@
 <br></br>
 
 
+<a href="https://github.com/Ramotion/paper-onboarding">
+<img align="left" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/paper-onboarding.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/paper-onboarding">PAPER ONBOARDING</a></h1></p>
+<h4>iOS library Paper Onboarding is a material design UI slider written on Swift</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/paper-onboarding#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/paper-onboarding#requirements">☑️ Requirements →</a></h4>
+<br></br>
+
+
 <a href="https://github.com/Ramotion/cardslider">
 <img align="left" src="https://github.com/Ramotion/cardslider/blob/master/iOS_Card_Slider.gif" width="480" height="360" /></a>
 <p><h1 align="left"><a href="https://github.com/Ramotion/cardslider">CARDSLIDER</a></h1></p>
@@ -86,18 +98,6 @@
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
 <h4><a href="https://github.com/Ramotion/paper-switch#installation">⚙️ Installation Guide →</a></h4>
 <h4><a href="https://github.com/Ramotion/paper-switch#requirements">☑️ Requirements →</a></h4>
-<br></br>
-
-
-<a href="https://github.com/Ramotion/paper-onboarding">
-<img align="left" src="https://github.com/Ramotion/swift-libraries/blob/master/gifs/paper-onboarding.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/paper-onboarding">PAPER ONBOARDING</a></h1></p>
-<h4>iOS library Paper Onboarding is a material design UI slider written on Swift</h4>
-<p><h6>Stay tuned for the latest updates:</h6>
-<a href="https://goo.gl/rPFpid" >
-<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
-<h4><a href="https://github.com/Ramotion/paper-onboarding#installation">⚙️ Installation Guide →</a></h4>
-<h4><a href="https://github.com/Ramotion/paper-onboarding#requirements">☑️ Requirements →</a></h4>
 <br></br>
 
 
