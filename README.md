@@ -203,7 +203,7 @@
 
 ## 📄 License
 
-All swift libraries are released under the MIT license.
+All Swift UI Libraries are released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
 If you use the open-source library in your project, please make sure to credit and backlink to www.ramotion.com
