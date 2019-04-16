@@ -201,7 +201,7 @@
 <a href="https://github.com/Ramotion/android-ui-animation-components-libraries"> 
 <img src="https://github.com/Ramotion/swift-ui-animation-components-libraries/blob/master/gifs/android.png" width="178" height="81"></a>
 
-<h4><a href="https://store.ramotion.com/product/iphone-x-clay-mockups?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell#demo"><u>📲 Get Free iPhone Mockup for your project →</u></a></h4>
+<h4><a href="https://store.ramotion.com/product/iphone-x-clay-mockups?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell#demo"><u>📲 Get FREE iPhone Mockup for your project →</u></a></h4>
 
 ## 📄 License
 
