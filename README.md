@@ -5,6 +5,19 @@
 <p><h3>A curated list of Swift libraries, iOS UI components and custom animations developed by Ramotion<h3><p>
  <br>
 
+
+<a href="https://github.com/Ramotion/circular-carousel">
+<img align="left" src="https://github.com/Ramotion/circular-carousel/blob/master/Screenshots/ios_circular_carousel.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/circular-carousel">CAROUSEL</a></h1></p>
+<h4>List a collection of items in a horizontally scrolling view. A scaling factor controls the size of the items relative to the center.</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/circular-carousel#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/circular-carousel#requirements">☑️ Requirements →</a></h4>
+<br></br>
+
+
 <a href="https://github.com/Ramotion/folding-cell">
 <img align="left" src="https://github.com/Ramotion/swift-ui-animation-components-and-libraries/blob/master/gifs/folding-cell.gif" width="480" height="360" /></a>
 <p><h1 align="left"><a href="https://github.com/Ramotion/folding-cell">FOLDING CELL</a></h1></p>
