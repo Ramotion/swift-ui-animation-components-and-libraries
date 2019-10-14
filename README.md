@@ -3,12 +3,10 @@
 # Swift UI Animation Libraries
 
 <p><h3>A curated list of Swift libraries, iOS UI components and custom animations developed by Ramotion</h3><p>
+<p><h4>Try these UI components and more like this in our iOS app. Contact us if interested.</h4>
 <br>
-<p>Try these UI components and more like this in our iOS app. Contact us if interested.
+<img src="https://github.com/ramotion/gliding-collection/raw/master/app_store@2x.png" width="117" height="34" alt="app development"></a>
 <br>
-<a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=swift-ui-libraries&mt=8" >
-<img src="https://github.com/ramotion/gliding-collection/raw/master/app_store@2x.png" width="117" height="34"></a>
-
 <a href="https://www.ramotion.com/agency/app-development?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a></p>
 
